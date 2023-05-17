@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    max-width: 1200px;
+}
+
+#snks {
+    width: 20%;
+    height: auto;
+}
+
+#cont {
+    width: auto;
+    height: 40%;
+    padding: 50px;
+}
+.uno,
+.dos,
+.tres,
+.cuatro {
+    width: 150px;
+    height: auto;
+}
